@@ -132,9 +132,16 @@ and data. HOWEVER, providers of the IaaS manage servers, hard drives, networkgin
 - AWS
 - Cisco Metacloud
 
-### Localhost and Hybrid cloud
+### Localhost, Public and Hybrid cloud
 On premises or localhost means working on a machine on site.
 
 Hybrid cloud is a solution that combines a private cloud with one or more public cloud services, with proprietary software
 enabling communication between each distinct service. A hybrid cloud strategy provides businesses with greater flexibility 
 by moving workloads between cloud solutions as needs and costs fluctuate.
+
+Public Cloud services provide storage and networking services on demand to many organisations (and the general public) over the
+internet. They may be free or offered on a usage-based pricing model. These are operated and managed by cloud service providers
+such as:
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
