@@ -138,7 +138,9 @@ and data. HOWEVER, providers of the IaaS manage servers, hard drives, networkgin
 - Cisco Metacloud
 
 ### Localhost, Public and Hybrid cloud
-On premises or localhost means working on a machine on site.
+On premises or localhost refers to the idea of using software/computing services on site, more specifically, localhost refers
+to the machine the developer is using. Example. You work on code on your localhost, and then in order to have it stored on
+the cloud, you push it to services like GitHub via Bash or other terminal means. 
 
 Hybrid cloud is a solution that combines a private cloud with one or more public cloud services, with proprietary software
 enabling communication between each distinct service. A hybrid cloud strategy provides businesses with greater flexibility 
