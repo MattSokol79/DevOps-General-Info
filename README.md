@@ -1,4 +1,7 @@
 # DevOps
+
+![](img/devops.png)
+
 ## What is DevOps 
 DevOps is a new term emerging from the collision of two major related trends. It is a practice of operations and development 
 engineers participating together in the entire service lifecycle, from design through the development process to production support.
