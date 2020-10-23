@@ -14,23 +14,25 @@ It is a bridge between development and operations.
 in the first place.
 
 ## DevOps Tools
-Some of the tools that you can use include tools in release:
+Some of the tools that you can use include: 
+
+**Release:**
 - Jenkins
 - Travis
 - Teamcity
 
-Configuration Management:
+**Configuration Management:**
 - Puppet
 - Chef
 - Ansible
 - Cfengine 
 
-Orcheastration:
+**Orcheastration:**
 - Zookeeper
 - Noah
 - Mesos
 
-Monitoring, Visualisation and Containerisation:
+**Monitoring, Visualisation and Containerisation:**
 - AWS (Amazon Web Services)
 - OpenStack
 - Vagrant
